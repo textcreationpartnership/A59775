@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Oliver St. Iohn, Esq. concerning his actions during the late troubles</title>
+            <author>St. John, Oliver, 1598?-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59775</idno>
+            <idno type="STC">Wing S324A</idno>
+            <idno type="STC">ESTC R219856</idno>
+            <idno type="EEBO-CITATION">99831303</idno>
+            <idno type="PROQUEST">99831303</idno>
+            <idno type="VID">35766</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35766)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Oliver St. Iohn, Esq. concerning his actions during the late troubles</title>
+                  <author>St. John, Oliver, 1598?-1673.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With half title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. John, Oliver, 1598?-1673 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35766:1"/>
+            <pb facs="tcp:35766:1"/>
+            <p>THE CASE OF Oliver St. Iohn, Eſq. Concerning his Actions During the late Troubles.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35766:2"/>
+            <pb facs="tcp:35766:2"/>
+            <head>THE CASE OF Oliver St. Iohn, Eſq.</head>
+            <div n="1" type="part">
+               <head>Concerning the King's death.</head>
+               <p n="1">
+                  <label>1.</label> IT is ſaid, <hi>Cromwell</hi> at the time of the King's Triall, both before and after His Death, often lay with me in the ſame Bed, or in my Lodg<g ref="char:EOLhyphen"/>ings.</p>
+               <p>This denied: For <hi>Cromwell</hi> having been all the Sum<g ref="char:EOLhyphen"/>mer in the Warrs in <hi>Wales,</hi> and other where, came to <hi>London</hi> about the time that the King was brought from the Iſle of <hi>Wight,</hi> my Wiſe then was at <hi>Lincolns</hi> Inne, and ſo continued all the time of the Triall, and after the King's Death, never lay out of my Chambers, in which, there is but one Bed ſave for Servants; and that <hi>Cromwell</hi> never lay with me, or in my Lodgings af<g ref="char:EOLhyphen"/>ter his return to <hi>London.</hi>
+               </p>
+               <p n="2">
+                  <label>2.</label> That I had a hand in a Book, written by Mr. <hi>Sadler</hi> in Juſtification of the King's Death.</p>
+               <p>
+                  <pb n="4" facs="tcp:35766:3"/>
+This denied: I never ſaw more then one Book al<g ref="char:EOLhyphen"/>ledged to be Mr. <hi>Sadlers,</hi> &amp; remember not the Contents of it, but had no hand in it, nor ever knew thereof, nor what was in it, untill I found it Printed.</p>
+               <p>The truth hereof, I believe Mr. <hi>Sadler</hi> will affirm.</p>
+               <p n="3">
+                  <label>3.</label> That Mr. <hi>Thurloe,</hi> late Secretary to <hi>Oliver,</hi> rela<g ref="char:EOLhyphen"/>ted to ſome of the Army that my ſelfe and <hi>Cromwel</hi> adviſed the King's Death.</p>
+               <p>This denied; or that I ever adviſed it with <hi>Crom<g ref="char:EOLhyphen"/>wel,</hi> or any other perſon whatſoever. This was neer twelve years agoe, at which time, <hi>Thurloe</hi> as I believe was not acquainted with the Army, he was then my private Servant, and not <hi>Cromwel's</hi> untill five years af<g ref="char:EOLhyphen"/>ter, not being recommended by me to him; and he had been out of my ſervice neer two years before he was in <hi>Cromwel's;</hi> And <hi>Thurloe</hi> being charged with the rela<g ref="char:EOLhyphen"/>tion, I refer my ſelfe to his Teſtimony; and deny, that any perſon is able to charge me with it.</p>
+               <p>But in anſwer to theſe Rumours, and all others of this nature;
+<list>
+                     <item>1. I clearly and confidently affirm', that I never knew of any intention to try Him for his life, or of any one thing that tended thereto, other waies then as Common newes when all others upon the notoriety of the action, knew the ſame; as of his removall from <hi>Hom<g ref="char:EOLhyphen"/>by,</hi> or to any other place, the treaties between him and the Army, His removall from the Iſle of <hi>VVight;</hi> nor of any intent to try Him, nor of the matter, or manner of his Triall, or Execution, or any thing conducing thereunto.</item>
+                     <item>
+                        <pb n="5" facs="tcp:35766:3"/>
+2. That in theſe times, upon all occaſions, I mani<g ref="char:EOLhyphen"/>feſted my diſlike, and diſ-ſatisfaction; and this, if the Houſe think fit, will be made good by many witneſ<g ref="char:EOLhyphen"/>ſes.</item>
+                     <item>3. That I was not then of the Houſe of Commons, for being made a Judge in <hi>October</hi> 1648. I ſat not a<g ref="char:EOLhyphen"/>gain untill <hi>June</hi> 1651. ſo that having nothing to do in the Houſe, where the Commiſſion iſſued, and decla<g ref="char:EOLhyphen"/>ring my ſelfe openly againſt it; It is hard, theſe times conſidered, when the danger was more in ſhewing diſ<g ref="char:EOLhyphen"/>like, than conſent, That I ſhould be thought to give private adviſe, and the rather, becauſe I was of no High Court of Juſtice, nor Commiſſioner of Oyer and Terminer, nor in any Circuit executed any, upon the late diſtractions.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>2. As to the altering of the Government, to a Common-wealth.</head>
+               <p>This is denied: nor is any particular, as I hear, vouched to make ſo much as a colour for it; many can witneſſe my declared Judgment, both before and after, to be for King, Lords, and Commons: The then pre<g ref="char:EOLhyphen"/>tended Houſe, commanded the Judges aſſiſtance and opinions, for alteration of the Government, I refuſed to give adviſe, alwayes manifeſted my diſlike of taking away the Houſe of Peers, and of ſecluding the Mem<g ref="char:EOLhyphen"/>bers in 1648. nor was then of the Houſe of Com<g ref="char:EOLhyphen"/>mons.</p>
+            </div>
+            <div n="3" type="part">
+               <head>3. That he was the dark Lanthorn, and privy Coun<g ref="char:EOLhyphen"/>cellour, in ſetting up, and managing affairs in the late <hi>Oliver</hi> Protector's time;</head>
+               <p>This wholly denied, and the
+<pb n="6" facs="tcp:35766:4"/>contrary true, and many witneſſes of my manifeſting my diſlike. Beſides that no colour of proof is made, Theſe circumſtances will further clear it.</p>
+               <list>
+                  <item>1. In <hi>October</hi> I fell ſick ſo dangerouſly, that, from that time untill the end of <hi>May,</hi> my friends expected death; I think in <hi>December,</hi> or <hi>January</hi> he was ſett up, when I was at the worſt.</item>
+                  <item>2. He named me one of the Councell, and ſum<g ref="char:EOLhyphen"/>moned me to ſit in that which was called the Other Houſe. I never would come to his Councell, or ſit in the other Houſe. He made me one of the Com<g ref="char:EOLhyphen"/>miſſioners of the Treaſury: I never intermedled, or received Salary, either as a Councellor or Commiſ<g ref="char:EOLhyphen"/>ſioner; I, nor any of my Relations, ever had one penny advantage by him, or by his means, directly or indirectly, ſave the continuance of my place as a Judge. And in the pretended Parliament 1656. when the Petition and Advice was made, my relations then, that the Houſe forbore to ſit all that Parlia<g ref="char:EOLhyphen"/>ment, few others abſenting themſelves.</item>
+                  <item>3. As ſoon as the Term was ended, I ever went down into the Country, and came not up untill the beginning of the Term following; ſeldome ſaw him, ſave before or after the Term to take leave; but fol<g ref="char:EOLhyphen"/>lowed my Calling.</item>
+                  <item>4. Contracted diſpleaſure from the Army, as a party diſaffected to his Protectorſhip and way. And as for managing of private advice by Mr. <hi>Thurlow,</hi> This wholly denyed; having bred him from a youth in my ſervice, he out of reſpect once or twice in a quarter of a year viſited me.</item>
+               </list>
+            </div>
+            <div n="4" type="part">
+               <pb n="7" facs="tcp:35766:4"/>
+               <head>4. That I had a hand in the ſetting up <hi>Richard</hi> his ſon, that I endeavoured to the laſt to reſettle him.</head>
+               <p>This untrue; I never knew of his father's intent to appoint him his Succeſſor. After the Summer Circuit, I went to my Country houſe, 60 miles from <hi>Lon<g ref="char:EOLhyphen"/>don: Oliver</hi> died, as I remember, about the 3d. of <hi>September, Richard</hi> was proclaimed and ſet up before my return to <hi>London:</hi> In the interim, I knew nothing of this buſineſſe, but what was known all <hi>England</hi> over; ſince his being out, I never ſaw him, nor re<g ref="char:EOLhyphen"/>ceived any meſſage from him, nor ſent any to him; never had any thought or treaty with any to reſtore him; and think it ſtrange any ſhould think me guilty of ſo great a folly.</p>
+               <p>I do therefore with all humble boldneſſe deny, that I had either in publick or private any hand in the King's death, or in the alteration of the antient Go<g ref="char:EOLhyphen"/>vernment of Kings, Lords, and Commons.</p>
+               <p>It is true, that when the other Governments were ſet up by others, that I did act under them. And I humbly deſire, that what I ſhall ſay for my ſelf upon this Subject, may not be taken as a Juſtification, but onely as an Extenuation of my offence, for to that end onely I offer it. His Majeſty in his Declaration in <hi>April</hi> laſt, and by his late Proclamation, doth graciouſly declare, That no crimes formerly com<g ref="char:EOLhyphen"/>mitted, ſhould be brought in queſtion againſt any, to the leaſt impeachment, either of Life, Liberty, or Eſtate, excepting onely of notorious Delinquents; and this Honorable Houſe, in their own names, and in the names of all the Commons of <hi>England,</hi> did lay
+<pb n="8" facs="tcp:35766:5"/>hold upon his Majeſtie's grace, which, as much as in me lay I had formerly done before the Honorable, the Speaker of this Houſe.</p>
+               <p>And in regard the Houſe, ſince the laying hold of his Majeſtie's grace, by their Vote of this inſtant <hi>June,</hi> have ſubjected me to ſuch Pains and Penalties, as by a future Act ſhall be Inacted, It is a great af<g ref="char:EOLhyphen"/>fliction to me, that I ſhould by them be thought un<g ref="char:EOLhyphen"/>worthy of his Majeſtie's grace, which extends to all that are not notorious Delinquents, when as ſo many thouſands, who have acted under theſe Governments, and ſome who have had a hand in the alteration, do partake thereof. And upon theſe conſiderations, and that the pains and penalties are not yet ſet, I hope it will not be offenſive to any, that I ſet down the grounds and motives of my actings; becauſe before God and Man, all actions are accounted more or leſſe good or bad, from the Circumſtances, Manner, and Intention of doing them.</p>
+               <p n="1">
+                  <label>1.</label> As to my Embaſſie into <hi>Holland</hi> with Mr. <hi>Strick<g ref="char:EOLhyphen"/>land,</hi> I humbly offer:<lb/>
+                  <list>
+                     <item>1. That it was above two years after that the Com<g ref="char:EOLhyphen"/>mon-wealth's Government was ſet up; it was ſet up in <hi>January</hi> 1648, and I was in <hi>Holland</hi> the latter end of <hi>March</hi> 1650, and continued there untill towards the end of <hi>May</hi> 1651.</item>
+                     <item>2. I was ſent againſt my will; for both by Petition to the Houſe, and otherwiſe, I uſed all means to avoid it: No reaſon I ſhould deſire it, conſidering, that <hi>Doriſlaus</hi> ſent thither before, was killed; and the loſſe of a good part of the profits of my place, as Judge, in my abſence.</item>
+                     <item>
+                        <pb n="9" facs="tcp:35766:5"/>
+3. Commanded by thoſe who then, <hi>de facto,</hi> though not <hi>de jure,</hi> exerciſed the Supream Power of the Nation, from which, no appeal for relief could be then made.</item>
+                  </list>
+               </p>
+               <p>The Embaſſie was, to renew the antient Ami<g ref="char:EOLhyphen"/>ty and intercourſe between the two Nations: While we treated upon theſe, we were recalled, <hi>re infecta,</hi> and the whole Embaſſie became fruitleſſe. We did never treat concerning the excluſion of his Majeſty, or his Title. And to the Allegation, that the Miniſters there forbore praying for his Ma<g ref="char:EOLhyphen"/>jeſty, as an effect of this Embaſſie: As I never heard it before, ſo I am confident that no occaſion was gi<g ref="char:EOLhyphen"/>ven for it by me, or that Embaſſie. And if it be fur<g ref="char:EOLhyphen"/>ther enquired into, I believe it will appear, that it aroſe from ſome other occaſion, and at ſome other time. The King was all this time in his Kingdom of <hi>Scotland,</hi> and had been Crowned, and reſident there a year before. During the time of this alteration of Government, Treaties and Alliances were made with the Princes and States formerly in amity with <hi>England.</hi>
+               </p>
+               <p>I had no advantage by this Embaſſie; the Plate, Furniture, Beds, and other things, claimed formerly by Embaſſadours, were by us returned to the Ward<g ref="char:EOLhyphen"/>robe. The States at our Farewell, as a gratuity, promiſed to return to each of us here in <hi>England</hi> a 1000 l. in Gold, which I refuſed; all the reward of that Embaſſie was, that whereas the Minſter of <hi>Peterborough,</hi> being an antient and goodly Fabrick, was propounded to be ſold and demoliſhed, I begg'd it to be granted to the Citizens of <hi>Peterborough,</hi> who
+<pb n="10" facs="tcp:35766:6"/>at that preſent, and ever ſince, have accordingly made uſe of it, <hi>Vid. Act.</hi> 19. <hi>Aug.</hi> 1651.</p>
+               <p>As to my acting as a Judge, I was in the place before the alteration of the Government, and did no other than the reſt of the Judges, Juſtices of Peace, and other Miniſters of Juſtice, for the ad<g ref="char:EOLhyphen"/>miniſtration of publick Juſtice between Party and Party, which, as the ſtate of affairs then ſtood, could not otherwiſe have been done.</p>
+               <p>The place when I came into it was vacant, by the death of the Lord <hi>Banks,</hi> and none appointed by his Majeſty to execute it.</p>
+               <p>As to any expreſſions I ſhould uſe in Parliament, to ſet up a Government by the Long Sword:</p>
+               <p>The time alledged was before the excluſion of the Members in 1648. and if I had made any ſuch expreſſion, I ſhould deſervedly have been then call'd to account by the Houſe. About that time, one of the Houſe having uſed that expreſſion, and the pre<g ref="char:EOLhyphen"/>ſent debate being, Whether an Act of Parliament, procured by actuall force, were good, or not, I u<g ref="char:EOLhyphen"/>ſed this expreſſion, That if ſuch Acts were good, it would juſtifie the opinion of the Gentleman, That the Long Sword muſt govern, which I ſpake of as the worſt of evills.</p>
+               <p>This I the better remember, becauſe an old Knight miſtaking me, I took occaſion to explain my ſelf for his ſatisfaction, the Houſe not requiring it. I have in my capacity endeavoured conſtantly to preſerve the Civill Government, in Parliament, and out of Parliament, from the Sword, and all Arbi<g ref="char:EOLhyphen"/>trary
+<pb n="11" facs="tcp:35766:6"/>Power, and have ſuffered for it, both from the Army, and otherwiſe, and from the firſt raiſing of forces in the Kingdom unto this day, I have ne<g ref="char:EOLhyphen"/>ver been privy, or conſented to any action of the Army, or any Members of it, in oppoſition of the Parliament, or Civill Government. And as to the Acts or Ordinances made by the Convention 1653. or by <hi>Cromwell</hi> and his Councell, I have not onely privately ſhewed my diſlike, but ſome of them ha<g ref="char:EOLhyphen"/>ving come before me as a Judge, I have not onely not acted upon them, but declared my ſelf againſt them; for which, complaints have been made againſt me to him and his Councell; and as it came in my way as a Judge, I always diſcharged ſuch as had been committed by the Major Generalls.</p>
+               <p>Concerning my ſitting at all times after 1648, in that called the Parliament: I never ſate in the Convention called in 1653, nor any thing called a Parliament, upon Summons from <hi>Oliver</hi> or <hi>Richard;</hi> though always ſummoned to ſit in that called the other Houſe.</p>
+               <p>I never ſat in any Parliament, but that which was ſummoned by the King's Writ in 1640. I was not of the Houſe in 1648. (being excluded from <hi>October,</hi> 1648. untill <hi>June</hi> 1651.) nor had any hand in excluſion of the Members, for not declaring their diſ-ſatisfaction to the Treaty in the Iſle of <hi>VVight.</hi>
+               </p>
+               <p>After my return from <hi>Holland,</hi> in <hi>June</hi> 1651, I was called to give an account of the Embaſſy in my place in the Houſe, and was commanded again to attend the Houſe, and ſo were all the other Judges, whoſe places were not filled up by new Elections,
+<pb n="12" facs="tcp:35766:7"/>who accordingly ſat as well as I.</p>
+               <p>I indeavoured not to have been called again into the Houſe. I never made any Declaration of my diſ-ſatisfaction of the Treaty at the Iſle of <hi>VVight;</hi> Upon all occaſions, I declared the excluſion of the Members in 1648. to be unjuſt, and was inſtru<g ref="char:EOLhyphen"/>mentall in reſtoring them to ſit again.</p>
+               <p>I alwayes oppoſed my ſelfe, to the taking away or altering of the Law, or of the Miniſtery by ta<g ref="char:EOLhyphen"/>king away of Tythes, both which were ſtrongly in<g ref="char:EOLhyphen"/>deavoured. And not being ſatisfied concerning their ſitting without the Lords and the Members exclu<g ref="char:EOLhyphen"/>ded; I indeavoured the bringing in of a Free-Par<g ref="char:EOLhyphen"/>liament, as a thing due to the Nation, and, as the di<g ref="char:EOLhyphen"/>ſtractions then were, I thought it the beſt, and juſteſt way of healing them, and this was neer effecting, when in <hi>April,</hi> 1653. there ſitting was hindred by <hi>Cromwel,</hi> and the Army.</p>
+               <p>After their ſitting in <hi>May,</hi> 1659. I declared the ſame reſolution, of maintenance of the Law, and Miniſtery, and that their ſitting in Juſtice to the Nation, ſhould be made uſe of onely as a bridge, to let in a Free-Parliament: That I fell into their great diſpleaſure, and felt it, is well known. I know no other Cauſe, but the publique owning theſe Prin<g ref="char:EOLhyphen"/>ciples.</p>
+               <p>After the Army had again interrupted their ſit<g ref="char:EOLhyphen"/>ting, and about <hi>January</hi> laſt they were reſtored, and an Oath of Abjuration of his Majeſtie's Title was in queſtion, I came out of the Country on purpoſe to oppoſe that, or any other of that nature, and did de<g ref="char:EOLhyphen"/>clare that to be the cauſe of my coming up, and did
+<pb n="13" facs="tcp:35766:7"/>publiquely oppoſe the ſame; and the other Oath which the Councell of State was injoyned to take, and did for that cauſe forbear at all to ſit in that Councell: It may be preſumed, I apprehended as others did, that the iſſue of a Free-Parliament, would be the happy reſtoring of his Majeſty to His Subjects; As alwayes formerly, ſo I then uſed my utmoſt indeavours for the calling of this therein, and had the happineſſe, when the force was taken from the ſecluded Members, after their ſitting, to make the motion, to put a period to the Long Par<g ref="char:EOLhyphen"/>liament, the 11th. day of <hi>March</hi> laſt, which upon debate was accordingly reſolved. What my carriage was in the Houſe after their reſtitution, and in the Councell, both before and after the riſing of the Houſe, I leave to their teſtimony that were pre<g ref="char:EOLhyphen"/>ſent.</p>
+               <p>This Narrative, I humbly tender in anſwer to the Rumours ſpread up and down, which if true would make me guilty of the King's Death, and of altera<g ref="char:EOLhyphen"/>tion of the Government, from King, Lords, and Commons, all which with due humility I do deny.</p>
+               <p>And if any of my former actions ſhall be thought well of, theſe are not mentioned to Juſtifie any that are bad, (for it was but my duty therein to have done better) nor do I in any thing juſtifie my owne opi<g ref="char:EOLhyphen"/>nion; but humbly deſire, that (the Diſtractions, and the Conjuncture of affairs conſidered when they were done) my actions may receive a favourable conſtruction. His Majeſty is pleaſed to receive to his grace, all that have not been notorious Delin<g ref="char:EOLhyphen"/>quents,
+<pb n="14" facs="tcp:35766:8" rendition="simple:additions"/>(though faulty) I have done nothing from a depraved or ill intention, and therefore hope, and humbly beg, I may be likewiſe received into yours; which if this Honourable Houſe, the Sanctuary of the Commons of <hi>England,</hi> and where we are all rep<g ref="char:EOLhyphen"/>reſented, ſhould think me unworthy of, and ſhould adjudge my crimes unpardonable, (the hand conſi<g ref="char:EOLhyphen"/>dered) Affliction would be added to Affliction.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35766:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
